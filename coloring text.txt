@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>LIST BALLAD SONG</h2>
+<p>These song can you listen when you feel exhausted or sad:</p>
+
+<ol>
+<li><p style="color:blue">Cinta Sendiri</li>
+<li><p style="color:green">Bicara</li>
+<li><p style="color:pink">Sebatas Mimpi</li>
+</ol> 
+    <p style="color:purple">For what make us sad is no matter. Matter is how you can embrace your sadness and embrace yourself first</p>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h5>COFFEE IS LEGAL DRUG</h5>
+<p style="color:brown;">coffee makes me feel better when i felt overwhwelmed. Sometime, it makes me feel HAPPY OVER THE HEALS.</p>
+
+
+</body>
+</html>
