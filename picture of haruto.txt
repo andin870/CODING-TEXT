@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HARUTO WATANABE</h2>
+<p>BEAUTY OF HARUTO WATANABE AS A RAPPER:</p>
+
+<img src="https://i.pinimg.com/1200x/64/53/0e/64530ec237bd717af72bdd213d6fceaa.jpg" alt="Haruto Watanabe pretty" width="400" height="600">
+
+</body>
+</html>
+
